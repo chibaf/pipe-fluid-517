@@ -4,4 +4,4 @@
 
 ## Bernoulli's equation
 
-$$\frac{1}{2}\rho v^2+\rho\, g\, h+p={\rm constant}$$
+$$\frac{1}{2}\rho v^2+\rho g h+p={\rm constant}$$
